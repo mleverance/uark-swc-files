@@ -1,2 +1,7 @@
 # uark-swc-files
-Data files used to teach Software Carpentry Bash and Python lessons. 
+
+University of Arkansas  
+Software Carpentry  
+March 18-19, 2019  
+
+This repository includes the files used to teach Bash and Python lessons, and resources for learning. 
